@@ -32,5 +32,5 @@ I am a bachelor of computer science. My current job is a junior backend develope
 ## **Languages**
 
 + Kazakh: Native
-+ English: Upper Intermediate
++ English: Intermediate
 + Russian: Native
