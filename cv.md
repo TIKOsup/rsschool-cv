@@ -34,3 +34,10 @@ I am a bachelor of computer science. My current job is a junior backend develope
 + Kazakh: Native
 + English: Intermediate
 + Russian: Native
+
+## **Education**
+
++ **International Information Technology University**
+    - _Bachelor's degree, Computer Science_
+    - _2018 - 2022_
+    - _3.39 GPA_
