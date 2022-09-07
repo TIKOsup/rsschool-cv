@@ -40,6 +40,15 @@ I am a bachelor of computer science. My current job is a junior backend develope
 + Java
 + SQL
 
+## **Code Example**
+
+```
+function bonusTime(salary, bonus) {
+  salary = bonus ? salary * 10 : salary;
+  return "\u00A3" + salary;
+}
+```
+
 ## **Languages**
 
 + Kazakh: Native
