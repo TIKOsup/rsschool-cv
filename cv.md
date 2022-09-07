@@ -4,7 +4,8 @@
 
 + Phone: +7 (747) 612-49-03
 + E-mail: temirlan.kystaubayev@gmail.com
-+ GitHub: [@tikosup](https://github.com/TIKOsup)
++ GitHub: [@TIKOsup](https://github.com/TIKOsup)
++ Frontend Mentor: [@TIKOsup](https://www.frontendmentor.io/profile/TIKOsup)
 
 ## **About Me**
 
