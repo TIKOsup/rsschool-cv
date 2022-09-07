@@ -1,2 +1,2 @@
 # rsschool-cv
-* Markdown & Git
+* [Markdown & Git](https://tikosup.github.io/rsschool-cv/cv)
